@@ -17,19 +17,7 @@ Video Demo: https://www.loom.com/share/e8440f47b6f34db7ab77fd6ae32fb908
 <br/>
 <br/>
 
-NPM packages used: 
-<br/> 
-- stripe 
-<br/> 
-- express
-<br/> 
-- axios 
-<br/>
-- cors
-<br/>
-- react-router-dom
-<br/>
-- react-lazy-load-image-component
+NPM packages used: stripe, express, axios, cors, react-router-dom, react-lazy-load-image-component
 
 <br/>
 <br/>
@@ -44,12 +32,4 @@ RandomUser API: https://randomuser.me/api/
 
 <br/>
 
-Front end Designs/UX includes: 
-<br/>
-- slider
-<br/>
-- lazy loading images
-<br/>
-- scroll to top
-<br/>
-- phone switcher design
+Front end Designs/UX includes: slider, lazy loading images, scroll to top transition, phone switcher design
