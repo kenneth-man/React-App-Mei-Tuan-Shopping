@@ -18,6 +18,7 @@ Video Demo: https://www.loom.com/share/e8440f47b6f34db7ab77fd6ae32fb908
 <br/>
 
 NPM packages used: 
+<br/> 
 - stripe 
 <br/> 
 - express
@@ -42,9 +43,9 @@ To fetch random user information such as name, email, location, image for the 'A
 RandomUser API: https://randomuser.me/api/
 
 <br/>
-<br/>
 
 Front end Designs/UX includes: 
+<br/>
 - slider
 <br/>
 - lazy loading images
