@@ -7,18 +7,17 @@ React website using Context, React Hooks, ES6+ Javascript, Functional components
 
 Video Demo: https://www.loom.com/share/e8440f47b6f34db7ab77fd6ae32fb908
 
-![Alt text](./src/Res/Images/sampleScreenshot1?raw=true "SampleScreenshot1")
-![Alt text](./src/Res/Images/sampleScreenshot2?raw=true "SampleScreenshot2")
-![Alt text](./src/Res/Images/sampleScreenshot3?raw=true "SampleScreenshot3")
-![Alt text](./src/Res/Images/sampleScreenshot4?raw=true "SampleScreenshot4")
-![Alt text](./src/Res/Images/sampleScreenshot5?raw=true "SampleScreenshot5")
-![Alt text](./src/Res/Images/sampleScreenshot6?raw=true "SampleScreenshot6")
+![Alt text](./src/Res/Images/sampleScreenshot1.png?raw=true "SampleScreenshot1")
+![Alt text](./src/Res/Images/sampleScreenshot2.png?raw=true "SampleScreenshot2")
+![Alt text](./src/Res/Images/sampleScreenshot3.png?raw=true "SampleScreenshot3")
+![Alt text](./src/Res/Images/sampleScreenshot4.png?raw=true "SampleScreenshot4")
+![Alt text](./src/Res/Images/sampleScreenshot5.png?raw=true "SampleScreenshot5")
+![Alt text](./src/Res/Images/sampleScreenshot6.png?raw=true "SampleScreenshot6")
 
 <br/>
 <br/>
 
 NPM packages used: 
-<br/> 
 - stripe 
 <br/> 
 - express
@@ -46,7 +45,6 @@ RandomUser API: https://randomuser.me/api/
 <br/>
 
 Front end Designs/UX includes: 
-<br/>
 - slider
 <br/>
 - lazy loading images
